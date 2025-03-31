@@ -1,0 +1,12 @@
+"rustorig"
+{
+	"base"		"base"
+	"title"		"gRust Original"
+	"category"	"other"
+	"maps"		""
+	"menusystem"	"1"
+
+	"settings"
+	{
+	}
+}
